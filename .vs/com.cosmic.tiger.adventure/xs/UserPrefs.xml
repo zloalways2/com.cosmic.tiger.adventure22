@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="{3D049338-F6F3-4C07-7565-D5BEFB7E60CB}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/Scripts/Menu/View/UI/PolicyAcceptView.cs">
+    <Files>
+      <File FileName="Assets/Project/Scripts/Gameplay/View/Gamefield/Item/Icon/ItemIconView.cs" Line="27" Column="1" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/Gamefield/Item/ItemView.cs" Line="16" Column="6" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Toggle/ToggleListener.cs" Line="15" Column="6" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Toggle/Audio/SFX/SFXMuteToggle.cs" Line="4" Column="6" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/UIObjectListener.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/ProgressBar/ProgressBar.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Scene/AutoSceneLoad.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Music/GlobalMusicData.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Music/BackgroundMusic/BackgroundLoop.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Toggle/Audio/Music/MusicMuteToggle.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/ButtonListener.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/Audio/SFX/Click/ButtonClickSFX.cs" Line="4" Column="1" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/Quit/QuitButton.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Win/Win.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/StopWatch.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Config/ItemRepository.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Matches/MatchFind.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Item/Item.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Animation/PureAnimation/PureAnimation.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/StopWatchTextView.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Text/TextView.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/Win/Buttons/NextLevelButton.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Scene/SceneLoad.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/LevelTextView.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Level.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/Win/WinView.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/Scene/SceneLoadButton.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Toggle/Audio/SFX/Click/ToggleClickSFX.cs" />
+      <File FileName="Assets/Project/Scripts/Menu/View/UI/LevelSelection/LoadLevelButton.cs" Line="3" Column="39" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Sound/Click/ClickSFX.cs" Line="3" Column="32" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Sound/SFX.cs" Line="1" Column="32" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Base/Audio.cs" Line="31" Column="22" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Base/AudioData.cs" Line="57" Column="23" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Music/Music.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Sound/Click/ClickSFXPlayRequest.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Sound/GlobalSFXData.cs" Line="4" Column="35" />
+      <File FileName="Assets/Project/Scripts/Menu/View/UI/PolicyAccept.cs" Line="14" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.cosmic.tiger.adventure" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Menu" expanded="True">
+                    <Node name="View" expanded="True">
+                      <Node name="UI" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aleksandr/Documents/Development/Unity/Projects/Sources/com.cosmic.tiger.adventure/Assets/Project/Scripts/Reusable/Logic/Audio/Base/Audio.cs" relfile="Assets/Project/Scripts/Reusable/Logic/Audio/Base/Audio.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6600c41a-9ae5-4000-8b65-dd0d89fad1f4" />
+</Properties>
